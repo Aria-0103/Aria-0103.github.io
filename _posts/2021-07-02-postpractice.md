@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Abyss"
+title:  "Step"
 date:   2021-07-02T01:59:52-09:00
 author: DV.Kim
-categories: practice
+categories: Practice
 tags: Well,
 ---
 
