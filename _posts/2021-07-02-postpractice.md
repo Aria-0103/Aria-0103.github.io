@@ -7,6 +7,4 @@ categories: PRacTicE
 tags: Well,
 ---
 
-#흠
-##이번엔
-###되려나?
+이번엔 잘 업로드 됐다
