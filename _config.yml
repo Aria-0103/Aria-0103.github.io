@@ -10,9 +10,9 @@ exclude:
 
 # Site settings
 title: M87
-subtitle: "The abyss also gazes into you."
+subtitle: "The abyss also gazes into you"
 #email: blcentra@gmail.com
-name: DV.K
+#name: DV.K
 description: >
  「Field of Hopes and Dreams」
 # Base URL of site (i.e. /blog). It should always start with a slash,
